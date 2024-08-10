@@ -1,0 +1,58 @@
+.a{
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 15px;
+}
+.ali{
+    align-items: center;
+    display: flex;
+    padding: 15px;
+}
+.kill{
+    border: solid 2px rgb(219, 216, 216);
+    height: 30px;
+    margin-left: 10px;
+}
+.glas{
+    margin-left: 20%;
+    font-size: 22px;
+}
+.form{
+    text-align: center;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;   
+    height: 0;
+    transition: calc(0.5s);
+}
+.hill{
+    font-size: 50px;
+    background-color: rgb(201, 78, 201);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hilldiv{
+    margin-bottom: 30px;
+}
+.input{
+    width: 700px;
+    height: 30px;
+    font-size: 20px;
+    padding: 5px 25px;
+    border-radius: 10px;
+}
+.btn{
+    width: 500px;
+    height: 41px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: lime;
+    color: white;   
+}
+.formnew{
+    overflow: auto;
+    height: 150px;
+}
